@@ -16,6 +16,17 @@ h1 {
   margin-bottom: 15px;
   font-size: 40px;
   letter-spacing: 5px;
+  align-items: center;
+}
+
+.infiniteIconContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.infiniteIcon {
+  height:40px;
+  width: 50px;
 }
 
 /* Loader */
